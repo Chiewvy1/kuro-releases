@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5",
-  "notes": "Floating cat without the shadow.",
+  "version": "1.9.0",
+  "notes": "Six new cats: Khao Manee, Suphalak, Orange tabby, Maine Coon, Scottish Fold, Persian.",
   "chrome": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/Kuro-chrome.zip",
   "mac": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/Kuro.pkg",
   "windows": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/KuroSetup.exe",
