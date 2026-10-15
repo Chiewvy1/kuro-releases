@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "notes": "Resizable floating cat, smarter field detection, faster update checks.",
+  "version": "1.7.0",
+  "notes": "Pick your AI model in Settings (Qwen 1.5B/3B/7B, Qwen3 4B, Gemma 3 4B). Works on any GPU, falls back to CPU.",
   "chrome": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/Kuro-chrome.zip",
   "mac": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/Kuro.pkg",
   "windows": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/KuroSetup.exe",
