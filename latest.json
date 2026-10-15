@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "notes": "New cat breeds: Kuro (black) and Siamese, with a realistic gallop.",
+  "version": "1.4.1",
+  "notes": "Fixes Qwen setup on Windows (llama.cpp download).",
   "chrome": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/Kuro-chrome.zip",
   "mac": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/Kuro.pkg",
   "windows": "https://raw.githubusercontent.com/Chiewvy1/kuro-releases/main/KuroSetup.exe",
